@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alexei👋<br></h1>
-<h2 align="center">Student of the <a href="https://www.bsuir.by/" height="24" target="_blank">BSUIR</a></h2>
-<h3 align="center">Faculty of Computer Systems and Networks<a height="24"</a></h3>
-<h5 align="center">Specialty of Computing Machines, Systems and Networks (2021-2025)</h5>
+<h2 align="center">Student of the <a href="https://www.bsuir.by/" height="24" target="_blank">BSUIR</a><br>
+<align="center">Faculty of Computer Systems and Networks<a height="24"</a><br>
+<h5 align="center">Specialty of Computing Machines, Systems and Networks (2021-2025)</h2>
 
 
 
