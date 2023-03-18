@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Alexei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the <a href="https://www.bsuir.by/" target="_blank">BSUIR</a>, FCSN, CMSN</h3>
-<h2 align="center">Faculty of Computer Systems and Networks,specialty computers, systems and networkse </h2>
+<h3 align="center">Faculty of Computer Systems and Networks</h3>
 Specialty of Computing Machines, Systems and Networks (2021-2025)
 
 
