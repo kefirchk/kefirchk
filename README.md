@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Alexei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of the <a href="https://www.bsuir.by/" target="_blank">BSUIR, FCSN, CMSN</h3>
+<h3 align="center">Student of the <a href="https://www.bsuir.by/" target="_blank">BSUIR</a>, FCSN, CMSN</h3>
 
 
 
