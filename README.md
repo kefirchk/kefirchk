@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Alexei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Student of the <a href="https://www.bsuir.by/" height="24" target="_blank">BSUIR</a>height="24"</h2>
-<h3 align="center">Faculty of Computer Systems and Networks height="16"/></h3>
-<h5 align="center">Specialty of Computing Machines, Systems and Networks (2021-2025) height="24"/></h5>
+<h2 align="center">Student of the <a href="https://www.bsuir.by/" height="24" target="_blank">BSUIR</a></h2>
+<h3 align="center">Faculty of Computer Systems and Networks<a height="24"</a></h3>
+<h5 align="center">Specialty of Computing Machines, Systems and Networks (2021-2025)</h5>
 
 
 
