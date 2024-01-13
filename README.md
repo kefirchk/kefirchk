@@ -40,7 +40,7 @@ I am a **C++/Unity** Developer from Belarus, Minsk.
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -85,7 +85,7 @@ I am a **C++/Unity** Developer from Belarus, Minsk.
 </div>
 
 ---
-## :fire: My Stats:
+## :fire: GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kefirchk)](https://git.io/streak-stats)
 
