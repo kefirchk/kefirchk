@@ -36,7 +36,7 @@ I am a **C++/Unity** Developer from Belarus, Minsk.
 
 - :zap: In my free time I spend time with friends and family, solve problems on LeetCode, learn something new, watch films, play guitar or computer games.
 
-- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Email&logoColor=white)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mail.Ru_Logo_2018.svg/1920px-Mail.Ru_Logo_2018.svg.png)
+- :mailbox:How to reach me: *prostolex2004@mail.ru*
 
 ---
 
