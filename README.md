@@ -81,7 +81,7 @@ I am a **C++/Unity** Developer from Belarus, Minsk.
   </a>
   
   [//]: # (ВМСИС)
-  ### Specialty of Computing Machines, Systems and Networks (2021-2025)<br>
+  ### Speciality of Computing Machines, Systems and Networks (2021-2025)<br>
 </div>
 
 ---
