@@ -30,7 +30,7 @@
 
 
 ## :woman_technologist: About Me:
-I am a **C++/Unity** Developer from Belarus, Minsk.
+I am a **Software Developer** from Belarus, Minsk.
 
 - :telescope: I am a 3rd year student and am looking for an internship or job.
 
