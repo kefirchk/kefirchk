@@ -5,7 +5,7 @@
 
 [//]: # (ССЫЛКИ НА СОЦСЕТИ)
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/alexey-klimovich-30744b249">
+  <a href="https://www.linkedin.com/in/alexey-klimovich-30744b249">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/lehaklimovich">
