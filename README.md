@@ -91,7 +91,7 @@ I am a **Software Developer** from Belarus, Minsk.
   </td>
   <td>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefirchk&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefirchk&layout=compact&langs_count=8&hide=hlsl,shaderlab,cmake,objective-c)](https://github.com/anuraghazra/github-readme-stats)
   
   </td>
 </tr>
