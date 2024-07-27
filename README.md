@@ -32,7 +32,7 @@
 ## :woman_technologist: About Me:
 I am a **Software Developer** from Belarus, Minsk.
 
-- :telescope: I am a 3rd year student and am looking for an internship or job.
+- :telescope: I am a 4th year student and am looking for an internship or job.
 
 - :zap: In my free time I spend time with friends and family, solve problems on LeetCode, learn something new, watch films, play guitar or computer games.
 
@@ -48,11 +48,13 @@ I am a **Software Developer** from Belarus, Minsk.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -78,18 +80,40 @@ I am a **Software Developer** from Belarus, Minsk.
 </div>
 
 ---
-## :fire: GitHub Stats:
+## :fire: GitHub and Leetcode Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kefirchk)](https://git.io/streak-stats)
+<table>
+<tr>
+  <td>
+    
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kefirchk)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefirchk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </td>
+  <td>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kefirchk)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefirchk&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </td>
+</tr>
+<tr>
+  <td>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kefirchk)](https://github.com/anuraghazra/github-readme-stats)
+
+  </td>
+  <td>
+
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/kefirchk)](https://leetcode.com/JacobLinCool)
+
+  </td>
+</tr>
+</table>
+
+<!--
 ## :fire: LeetCode Stats:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Milk_Xela)](https://github.com/KnlnKS/leetcode-stats)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kefirchk)](https://github.com/KnlnKS/leetcode-stats)
+-->
   
 <!--
 тут комментарий
