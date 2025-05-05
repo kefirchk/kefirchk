@@ -106,19 +106,19 @@ I am a **Software Developer** from Belarus, Minsk.
 <tr>
   <td>
     
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kefirchk)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kefirchk&theme=radical)](https://git.io/streak-stats)
 
   </td>
   <td>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefirchk&layout=compact&langs_count=8&hide=hlsl,shaderlab,cmake,objective-c)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefirchk&theme=radical&layout=compact&langs_count=8&hide=hlsl,shaderlab,cmake,objective-c)](https://github.com/anuraghazra/github-readme-stats)
   
   </td>
 </tr>
 <tr>
   <td>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kefirchk)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kefirchk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   </td>
   <td>
